@@ -1,0 +1,105 @@
+[
+  {
+  "category": {
+  "id": 1,
+  "name": "Remeras"
+  },
+  "description": "Descripción del producto 1",
+  "id": 1,
+  "image": [
+  "https://media.istockphoto.com/id/1125110782/es/foto/hombre-joven-aislado-en-una-pared-con-textura-gris-sonriendo-mientras-apunta-con-el-dedo.jpg?s=612x612&w=0&k=20&c=hcMB9DIHaUo_KVxJI3HP3vXrmuIS2owjeoP_Hrj5USw=",
+  "https://media.istockphoto.com/id/1138400591/es/foto/dise%C3%B1o-de-la-camisa-y-el-concepto-de-la-gente-cerca-de-hombre-joven-en-blanco-camiseta-negro.jpg?s=612x612&w=0&k=20&c=9TziabWg82ZKqBuBgHWgybKJbLvyY552BoZgDmYmO6M=",
+  "https://media.istockphoto.com/id/483960103/es/foto/camiseta-negra-frontal-en-blanco-con-trazado-de-recorte.jpg?s=612x612&w=0&k=20&c=WTtkplvVBMxKTStHvG6rzKlw1G246bJ5apgJcNiFT_Q="
+  ],
+  "price": 1000.0,
+  "title": "Producto 1"
+  },
+  {
+  "category": {
+  "id": 1,
+  "name": "Remeras"
+  },
+  "description": "Descripción del producto 2",
+  "id": 2,
+  "image": [
+  "https://media.istockphoto.com/id/1149035726/es/foto/camiseta-blanca-en-un-hombre-joven-aislado-sobre-fondo-blanco-vista-frontal-y-posterior.jpg?s=612x612&w=0&k=20&c=MHfWQXltbRenZkRMaX1FFMOeVUEw9rT9O7tCj_UU41M=",
+  "https://media.istockphoto.com/id/1138400603/es/foto/dise%C3%B1o-de-la-camiseta-y-el-concepto-de-la-gente-cerca-de-hombre-joven-en-blanco-camiseta.jpg?s=612x612&w=0&k=20&c=QOOh6UNxW6Rf5vUOYLliSEDLxYCo2LjUV6Sxfgi-0Wk=",
+  "https://media.istockphoto.com/id/1324724410/es/foto/maqueta-de-camiseta-arrugada-blanca-en-blanco-diferentes-vistas.jpg?s=612x612&w=0&k=20&c=cQhghhHhiD8JYwk_Oib8sl09OXMfOEMI2K1akY9KDt8="
+  ],
+  "price": 1000.0,
+  "title": "Producto 2"
+  },
+  {
+  "category": {
+  "id": 1,
+  "name": "Remeras"
+  },
+  "description": "Descripción del producto 3",
+  "id": 2,
+  "image": [
+  "https://media.istockphoto.com/id/1213844264/es/foto/adolescente-ni%C3%B1o-con-camiseta-roja-sobre-fondo-blanco-aislado-mirando-confiado-con-la-sonrisa.jpg?s=612x612&w=0&k=20&c=ZrGLEV5uqeZtEUzpVJgTM8CK8gEoHXVaLfWEZicbP-g=",
+  "https://media.istockphoto.com/id/1167771770/es/foto/joven-apuesto-hombre-indio-con-camiseta-sobre-fondo-rojo-aislado-muy-feliz-y-emocionado.jpg?s=612x612&w=0&k=20&c=uRdKZ1_SJihr1SJJYfe75WutEMLgT11lZ9pV20VekCg=",
+  "https://media.istockphoto.com/id/685779142/es/foto/camiseta-roja-ropa.jpg?s=612x612&w=0&k=20&c=39z_71KvuAxJfvEex0kBrH8IThjbRCISvMUP34Qql-0="
+  ],
+  "price": 1000.0,
+  "title": "Producto 3"
+  },
+  {
+  "category": {
+  "id": 2,
+  "name": "Gorras"
+  },
+  "description": "Descripción del producto 4",
+  "id": 4,
+  "image": [
+  "https://media.istockphoto.com/id/497040301/es/foto/sombrero-blanco-de-b%C3%A9isbol.jpg?s=612x612&w=0&k=20&c=-Jmi2btfmAQXPAfz7-uyvqBFoMXEv5HfD_Hv_9oZNUA=",
+  "https://media.istockphoto.com/id/1151408809/es/foto/tapa-de-tela-de-lona-blanca-aislada-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=1h650bhw3FsVN3YMqnBhELTBlWk0D_qQx8y8yQCKA8A=",
+  "https://media.istockphoto.com/id/530815848/es/foto/blanco-blanco-gorra-de-b%C3%A9isbol-maqueta-plantilla-desgaste-en-las-mujeres-de.jpg?s=612x612&w=0&k=20&c=coY2mMan6J9B-mS0Q2UgpMUeKxcQLgIM1g-1MOPUl-E="
+  ],
+  "price": 500.0,
+  "title": "Producto 4"
+  },
+  {
+  "category": {
+  "id": 2,
+  "name": "Gorras"
+  },
+  "description": "Descripción del producto 5",
+  "id": 5,
+  "image": [
+  "https://media.istockphoto.com/id/864713752/es/foto/casco-de-b%C3%A9isbol.jpg?s=612x612&w=0&k=20&c=7h2D8eTcBlrciPHYU8A1dyPymoidx-fJe6MeQswadnI=",
+  "https://media.istockphoto.com/id/1269843038/es/foto/gorra-de-b%C3%A9isbol-negra-vistas-frontales-y-laterales.jpg?s=612x612&w=0&k=20&c=Hhia5tfLOqlj1Hy9pr4dlL5d2NCOILiNeNozYBWF7f8=",
+  "https://media.istockphoto.com/id/858160872/es/foto/hipster-guapo-modelo-masculino-con-el-uso-de-barba-negra-en-blanco-gorra-con-espacio-para-su.jpg?s=612x612&w=0&k=20&c=1LhR6loDzMc1XT5dVazDRTpGKlxEk3Bvff68-hYg1kE="
+  ],
+  "price": 500.0,
+  "title": "Producto 5"
+  },
+  {
+  "category": {
+  "id": 3,
+  "name": "Tazas"
+  },
+  "description": "Descripción del producto 6",
+  "id": 6,
+  "image": [
+  "https://media.istockphoto.com/id/152964864/es/foto/listo-para-dos-tazas-de-marca.jpg?s=612x612&w=0&k=20&c=E4xj8g8dBdJBD53juKXkydVuolaZTpNY_451Y8Ea9Ag=",
+  "https://media.istockphoto.com/id/1190147404/es/foto/taza-de-caf%C3%A9-y-port%C3%A1til-en-la-mesa.jpg?s=612x612&w=0&k=20&c=ZGtTvLudRjlm0WVf7elf4WiXoVtYowoWwGdKrmZ2RaE="
+  ],
+  "price": 300.0,
+  "title": "Producto 6"
+  },
+  {
+  "category": {
+  "id": 3,
+  "name": "Tazas"
+  },
+  "description": "Descripción del producto 7",
+  "id": 7,
+  "image": [
+  "https://media.istockphoto.com/id/678609338/es/foto/mofa-de-taza-en-blanco-cristal-negro-ups-conjunto-aislado.jpg?s=612x612&w=0&k=20&c=UYzHokp-MA1zILoHUVPKRaoPHU137pmlIMs0RiyB78I=",
+  "https://media.istockphoto.com/id/821282056/es/foto/mug-negro-aislado.jpg?s=612x612&w=0&k=20&c=UQYUwhM4ZZMO2Yp-ipyPKoAHIywH7Tqr9kjCfTOsy2c="
+  ],
+  "price": 300.0,
+  "title": "Producto 7"
+  }
+  ]
